@@ -65,7 +65,6 @@ At [TuerSS](https://www.tuerss.com/), we specialize in delivering high-quality s
 
 - **Email:** support@tuerss.com
 - **Website:** [www.tuerss.com](https://www.tuerss.com/)
-- **LinkedIn:** [Lil Ami](#)
 - **GitHub:** [LilAmi](https://github.com/LilAmi)
 - **Discord:** [Lil Ami](https://discord.com/users/1026200545775591454)
 
