@@ -48,7 +48,7 @@ At [TuerSS](https://www.tuerss.com/), we specialize in delivering high-quality s
 ![Tailwind CSS](https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=light)
 ![JavaScript](https://svgl-badge.vercel.app/api/Language/JavaScript?theme=light)
 ![TypeScript](https://svgl-badge.vercel.app/api/Language/TypeScript?theme=light)
-![Node.js](https://svgl-badge.vercel.app/api/Software/Node.js?theme=light)
+![Node.js](https://svgl-badge.vercel.app/api/Library/Node.js?theme=light)
 ![MongoDB](https://svgl-badge.vercel.app/api/Database/MongoDB?theme=light)
 ![SQL](https://svgl-badge.vercel.app/api/Database/MySQL?theme=light)
 ![C#](https://svgl-badge.vercel.app/api/Language/C%23?theme=light)
