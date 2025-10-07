@@ -2,7 +2,7 @@
 
 ![Profile GIF](https://raw.githubusercontent.com/hacker123as/hacker123as/refs/heads/main/F5A46E1B-038D-403B-B0DF-EE8554ED8914.gif)
 
-**CEO and Founder of [TuerSS](https://www.tuerss.com/)**  
+**CEO and Founder of [TuerSS](http://github.com/tuerss)**  
 *Web Development Company | Roblox Scripter | Full Stack Developer*
 
 ---
@@ -33,7 +33,7 @@ I have a knack for creating custom injectors and have experience developing Robl
 
 ## 🌐 TuerSS - Your Full-Stack Development Partner
 
-At [TuerSS](http://github.com/tuerss), we specialize in delivering high-quality solutions tailored to your needs:
+At [TuerSS](https://www.tuerss.com/), we specialize in delivering high-quality solutions tailored to your needs:
 
 - **Windows Applications:** From small utilities to enterprise-grade software.
 - **Web Development:** Modern, responsive, and beautiful websites.
