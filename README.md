@@ -33,7 +33,7 @@ I have a knack for creating custom injectors and have experience developing Robl
 
 ## 🌐 TuerSS - Your Full-Stack Development Partner
 
-At [TuerSS](https://www.tuerss.com/), we specialize in delivering high-quality solutions tailored to your needs:
+At [TuerSS](http://github.com/tuerss), we specialize in delivering high-quality solutions tailored to your needs:
 
 - **Windows Applications:** From small utilities to enterprise-grade software.
 - **Web Development:** Modern, responsive, and beautiful websites.
