@@ -2,13 +2,15 @@
 
 # 👋 Hey, I'm **Lil Ami**
 
-<img src="https://raw.githubusercontent.com/hacker123as/hacker123as/refs/heads/main/F5A46E1B-038D-403B-B0DF-EE8554ED8914.gif" width="620" alt="Lil Ami profile animation" />
+<img src="https://raw.githubusercontent.com/hacker123as/hacker123as/refs/heads/main/F5A46E1B-038D-403B-B0DF-EE8554ED8914.gif" width="360" alt="Lil Ami profile animation" />
 
 ### ⚡ Senior Software Developer · 🚀 CEO & Founder of [TuerSS](https://www.tuerss.com/)
 
-**Full-Stack Web · Android / Expo · TypeScript · AI · Backend & APIs · Roblox / Luau**
+**Frontend + Backend · Full-Stack Web · Cybersecurity Research · Android / Expo · TypeScript · AI · APIs · Roblox / Luau**
 
 📍 **Michigan, USA**
+
+### ✨ [Want to see my GitHub site? I worked hard on it — check it out →](https://hacker123as.github.io/)
 
 <br/>
 
@@ -30,9 +32,20 @@ I work across:
 
 > **💡 Idea → 🎨 Interface → 🧱 Architecture → 💻 Code → ☁️ Deployment → 🚀 Real Product**
 
-I build **websites, full-stack applications, Android/Expo apps, APIs, backend systems, AI-powered tools, automation, and Roblox/Luau systems**.
+I build **frontend experiences, backend systems, full-stack applications, Android/Expo apps, APIs, AI-powered tools, automation, and Roblox/Luau systems**. I also work as a **cybersecurity researcher**, with a strong focus on security-minded engineering, application security, and understanding how systems can fail so they can be built more defensively.
 
 I'm also the **CEO & Founder of [TuerSS](https://www.tuerss.com/)**, where I work across product direction, full-stack engineering, backend infrastructure, APIs, AI features, automation, developer experience, and platform operations.
+
+---
+
+## 🎓 Education & Technical Background
+
+- 🛡️ **Associate Degree — Cybersecurity (2-year)**
+- 🧠 **Associate Degree — Computer Engineering (2-year)**
+- 🎓 **Michigan Great Lakes Virtual Academy (MGLVA)** — High School, **Class of 2025**
+- 🔐 **Cybersecurity Research** — security-minded software engineering, application security, defensive analysis, and vulnerability research
+
+I take cybersecurity research seriously and aim to operate at a **high technical standard**, while combining that knowledge with practical frontend, backend, mobile, and full-stack development.
 
 ---
 
@@ -93,7 +106,7 @@ If you need someone for a real project, you can contact me for work involving:
 </tr>
 </table>
 
-> **Serious inquiries only.** If you have a real goal, real project, or real job opportunity, reach out at **support@tuerss.com**.
+> **Serious inquiries only.** If you have a real goal, real project, engineering job, cybersecurity-related opportunity, or development partnership, reach out at **support@tuerss.com**.
 
 ---
 
@@ -208,7 +221,7 @@ Progression systems, abilities, UI logic, networking, remote validation, gamepla
 
 ### 💼 Have a serious project or job opportunity?
 
-If you need a **website, app, backend, API, AI feature, developer tool, or Roblox system**, you can contact me.
+If you need a **website, frontend, backend, full-stack app, Android app, API, AI feature, developer tool, cybersecurity-minded engineering work, or Roblox system**, you can contact me.
 
 [![Email Me](https://img.shields.io/badge/EMAIL_ME-support%40tuerss.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@tuerss.com)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-View_My_Site-268CFF?style=for-the-badge)](https://hacker123as.github.io/)
