@@ -1,92 +1,107 @@
 <div align="center">
 
-# Lil Ami
+<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/readme-hero-v6.png" width="100%" alt="Lil Ami portfolio banner" />
 
-<img src="https://raw.githubusercontent.com/hacker123as/hacker123as/refs/heads/main/F5A46E1B-038D-403B-B0DF-EE8554ED8914.gif" width="280" alt="Lil Ami profile animation" />
+<br/>
+
+<img src="https://raw.githubusercontent.com/hacker123as/hacker123as/refs/heads/main/F5A46E1B-038D-403B-B0DF-EE8554ED8914.gif" width="190" alt="Lil Ami profile animation" />
+
+# Lil Ami
 
 ### Senior Software Developer · CEO & Founder of [TuerSS](https://www.tuerss.com/)
 
-**Frontend + Backend · Full-Stack Web · Cybersecurity Research · Android / Expo · TypeScript · AI · APIs · Roblox / Luau**
+**Frontend + Backend · Full-Stack Web · Android / Expo · AI · APIs · Cybersecurity Research · Roblox / Luau**
 
 **Michigan, USA**
 
-### [Want to see the site I worked hard on? Visit lilami.tuerss.com →](https://lilami.tuerss.com/)
+### [Visit the portfolio I worked hard on → lilami.tuerss.com](https://lilami.tuerss.com/)
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-lilami.tuerss.com-4E9FFF?style=for-the-badge)](https://lilami.tuerss.com/)
 [![TuerSS](https://img.shields.io/badge/TUERSS-tuerss.com-826CFF?style=for-the-badge)](https://www.tuerss.com/)
-[![Business Email](https://img.shields.io/badge/SERIOUS_INQUIRIES-support%40tuerss.com-111827?style=for-the-badge)](mailto:support@tuerss.com)
+[![Email](https://img.shields.io/badge/SERIOUS_INQUIRIES-support%40tuerss.com-111827?style=for-the-badge)](mailto:support@tuerss.com)
 
-<br/><br/>
+<br/>
 
-<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/frontend.webp" width="78" alt="Frontend development" />
-<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/backend.webp" width="78" alt="Backend development" />
-<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/mobile.webp" width="78" alt="Mobile development" />
-<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/ai.webp" width="78" alt="AI engineering" />
-<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/cybersecurity.webp" width="78" alt="Cybersecurity research" />
-<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/roblox.webp" width="78" alt="Roblox systems" />
+<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/frontend.webp" width="72" alt="Frontend" />
+<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/backend.webp" width="72" alt="Backend" />
+<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/mobile.webp" width="72" alt="Mobile" />
+<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/ai.webp" width="72" alt="AI" />
+<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/cybersecurity.webp" width="72" alt="Cybersecurity" />
+<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/roblox.webp" width="72" alt="Roblox" />
 
 </div>
 
 ---
 
-## About Me
+## About
 
 I'm **Lil Ami**, a Senior Software Developer focused on building complete products.
 
-I work across **frontend engineering, backend systems, full-stack applications, Android/Expo apps, APIs, AI-powered tools, automation, cybersecurity research, and Roblox/Luau systems**.
+I work across **frontend engineering, backend systems, full-stack web applications, Android/Expo apps, APIs, AI-powered tools, automation, cybersecurity research, and Roblox/Luau systems**.
 
 I like projects where I can take something from:
 
-**Idea → Interface → Architecture → Frontend → Backend → Deployment → Real Product**
+> **Idea → Interface → Architecture → Frontend → Backend → Deployment → Real Product**
 
 I'm also the **CEO & Founder of [TuerSS](https://www.tuerss.com/)**, where I work across product direction, engineering, backend infrastructure, APIs, AI features, automation, developer experience, and platform operations.
 
 ---
 
-## Education & Technical Background
+## What I Build
 
-| Area | Background |
+| Area | What I work on |
 |---|---|
-| Cybersecurity | **2-year Associate Degree in Cybersecurity** |
-| Computer Engineering | **2-year Associate Degree in Computer Engineering** |
-| High School | **Michigan Great Lakes Virtual Academy (MGLVA), Class of 2025** |
-| Research | **Cybersecurity research, application security, defensive analysis, and vulnerability research** |
+| **Web & Frontend** | Business sites, SaaS, dashboards, account systems, React, Next.js, TypeScript |
+| **Backend & APIs** | Authentication, databases, REST APIs, integrations, server logic, validation |
+| **Android & Mobile** | Expo, React Native, Android apps, API-connected products |
+| **AI & Automation** | AI features, assistants, integrations, workflows, developer tooling |
+| **Cybersecurity-Minded Engineering** | Application-security thinking, defensive architecture, vulnerability research |
+| **Roblox / Luau** | Gameplay systems, client/server logic, UI, progression, abilities, validation |
 
-I combine security-minded engineering with practical frontend, backend, mobile, and full-stack development.
+> **Serious inquiries only.** For a real project, job opportunity, or development partnership: **support@tuerss.com**
 
 ---
 
-## Serious Projects & Job Opportunities
+## Background
 
-I'm open to **serious software projects, development jobs, engineering opportunities, and product partnerships**.
-
-| I can help build | Examples |
+| | |
 |---|---|
-| **Websites & Web Apps** | Business sites, SaaS, dashboards, account systems, internal tools |
-| **Frontend** | React, Next.js, TypeScript, responsive product interfaces |
-| **Backend & APIs** | Authentication, databases, REST APIs, integrations, server logic |
-| **Android & Mobile** | Expo, React Native, Android apps, API-connected products |
-| **AI & Automation** | AI features, assistants, workflows, developer tooling |
-| **Cybersecurity-minded Engineering** | Defensive architecture, validation, application-security thinking |
-| **Roblox / Luau** | Gameplay systems, client/server logic, UI, progression and abilities |
-
-> **Serious inquiries only.** If you have a real project, real job opportunity, or development partnership, contact **support@tuerss.com**.
+| **Cybersecurity** | 2-year Associate Degree |
+| **Computer Engineering** | 2-year Associate Degree |
+| **High School** | Michigan Great Lakes Virtual Academy — Class of 2025 |
+| **Research** | Cybersecurity research, application security, defensive analysis, vulnerability research |
 
 ---
 
 ## Technology
 
-**Frontend**  
+<details>
+<summary><strong>Frontend</strong></summary>
+
 `TypeScript` · `JavaScript` · `React` · `Next.js` · `Tailwind CSS` · `HTML` · `CSS`
 
-**Mobile**  
+</details>
+
+<details>
+<summary><strong>Mobile</strong></summary>
+
 `Expo` · `React Native` · `Android` · `TypeScript`
 
-**Backend & Data**  
+</details>
+
+<details>
+<summary><strong>Backend & Data</strong></summary>
+
 `Node.js` · `Express` · `REST APIs` · `MongoDB` · `SQL` · `Prisma` · `Authentication`
 
-**Languages & Tools**  
+</details>
+
+<details>
+<summary><strong>Languages & Tools</strong></summary>
+
 `Python` · `C#` · `Lua` · `Luau` · `Git` · `GitHub` · `Vercel` · `VS Code`
+
+</details>
 
 ---
 
@@ -94,20 +109,13 @@ I'm open to **serious software projects, development jobs, engineering opportuni
 
 I'm the **CEO & Founder of [TuerSS](https://www.tuerss.com/)**.
 
-TuerSS focuses on website intelligence and operations across:
+TuerSS focuses on **website intelligence and operations** across SEO, security, analytics, AI code operations, automation, and technical website improvement.
 
-- **SEO**
-- **Security**
-- **Analytics**
-- **AI code operations**
-- **Automation**
-- **Website intelligence**
-
-My work on TuerSS spans product direction, frontend, backend infrastructure, APIs, automation, AI features, and developer experience.
+My work spans product direction, frontend, backend infrastructure, APIs, automation, AI features, and developer experience.
 
 ---
 
-## Featured Work
+## Selected Work
 
 ### [TuerSS](https://www.tuerss.com/)
 Website intelligence, SEO, security, analytics, automation, and AI operations.
