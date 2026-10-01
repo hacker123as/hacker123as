@@ -1,79 +1,126 @@
-# 👋 Hello, I'm Lil Ami!
+# 👋 Hey, I'm Lil Ami
 
-![Profile GIF](https://raw.githubusercontent.com/hacker123as/hacker123as/refs/heads/main/F5A46E1B-038D-403B-B0DF-EE8554ED8914.gif)
+**Senior Software Developer · CEO & Founder of [TuerSS](https://www.tuerss.com/)**  
+*Full-Stack Engineering · Android / Expo · TypeScript · AI · Backend Systems · Roblox / Luau*
 
-**CEO and Founder of [TuerSS](http://github.com/tuerss)**  
-*Web Development Company | Roblox Scripter | Full Stack Developer*
+Based in **Michigan, USA**.
 
----
+I build software across the entire product stack — from polished interfaces and mobile apps to APIs, databases, authentication, AI integrations, infrastructure, and production deployment.
 
-## 🚀 About Me
-
-I'm a passionate full-stack developer with a strong background in both frontend and backend development. My expertise includes:
-
-- **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express, MongoDB, SQL
-- **Scripting:** Lua for Roblox development
-- **AI Development:** Crafting intelligent solutions
-- **Programming Languages:** C#, TypeScript
-
-I have a knack for creating custom injectors and have experience developing Roblox injectors for enhancing gaming experiences.
+[![Portfolio](https://img.shields.io/badge/Portfolio-hacker123as.github.io-58A6FF?style=for-the-badge&logo=github)](https://hacker123as.github.io/)
+[![TuerSS](https://img.shields.io/badge/TuerSS-tuerss.com-7C6CFF?style=for-the-badge)](https://www.tuerss.com/)
+[![Email](https://img.shields.io/badge/Business-support%40tuerss.com-111827?style=for-the-badge)](mailto:support@tuerss.com)
 
 ---
 
-## 🎮 Projects
+## 🚀 What I Do
 
-- **Zephal (BETA):**  
-  Contributed as a coder to [Zephal](https://serverside.zephal.org/), a robust script execution platform enhancing gaming experiences within compatible multiplayer environments.
+### 🌐 Full-Stack Web Development
+- React, Next.js, TypeScript, JavaScript
+- Tailwind CSS, HTML, CSS
+- Responsive product interfaces and dashboards
+- Authentication and account systems
+- REST APIs and third-party integrations
+- Production deployments and web infrastructure
 
-- **Nexus Server Side (Discontinued):**  
-  Former developer for Nexus Server Side, focusing on server-side solutions for enhanced game functionalities.
+### 📱 Android & Mobile Development
+- Expo and React Native
+- TypeScript-first mobile architecture
+- Android application development
+- API-connected apps
+- Authentication, application logic, and polished UI
+- Cross-platform product development
 
----
+### ⚙️ Backend Engineering
+- Node.js and Express
+- MongoDB, SQL, Prisma
+- API architecture and server logic
+- Authentication and authorization
+- Data modeling and integrations
+- Scalable backend services
 
-## 🌐 TuerSS - Your Full-Stack Development Partner
+### ✨ AI Development
+- AI-powered product features
+- Chat and assistant interfaces
+- Model/API integrations
+- Structured AI workflows
+- Developer tooling and automation
+- AI-assisted code operations
 
-At [TuerSS](https://www.tuerss.com/), we specialize in delivering high-quality solutions tailored to your needs:
+### 🎮 Roblox / Luau Engineering
+- Luau scripting
+- Gameplay systems and abilities
+- Progression systems
+- UI and client/server logic
+- Remote architecture and validation
+- Prototyping and game systems design
 
-- **Windows Applications:** From small utilities to enterprise-grade software.
-- **Web Development:** Modern, responsive, and beautiful websites.
-- **Backend Development:** Robust, scalable, and secure backend systems.
-- **Custom Scripting:** Expert Lua scripting, Python development, and more.
-
----
-
-## 🛠️ Skills
-
-![React](https://svgl-badge.vercel.app/api/Library/React?theme=light)
-![Tailwind CSS](https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=light)
-![JavaScript](https://svgl-badge.vercel.app/api/Language/JavaScript?theme=light)
-![TypeScript](https://svgl-badge.vercel.app/api/Language/TypeScript?theme=light)
-![Node.js](https://svgl-badge.vercel.app/api/Library/Node.js?theme=light)
-![MongoDB](https://svgl-badge.vercel.app/api/Database/MongoDB?theme=light)
-![SQL](https://svgl-badge.vercel.app/api/Database/MySQL?theme=light)
-![C#](https://svgl-badge.vercel.app/api/Language/C%23?theme=light)
-![Lua](https://svgl-badge.vercel.app/api/Language/Lua?theme=light)
-![Python](https://svgl-badge.vercel.app/api/Language/Python?theme=light)
-![GitHub](https://svgl-badge.vercel.app/api/Software/Github?theme=light)
-![Visual Studio Code](https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=light)
-![Visual Studio](https://svgl-badge.vercel.app/api/Software/Visual%20Studio?theme=light)
-![Discord](https://svgl-badge.vercel.app/api/Software/Discord?theme=light)
-
----
-
-## 📫 Let's Connect!
-
-- **Email:** support@tuerss.com
-- **Website:** [www.tuerss.com](https://www.tuerss.com/)
-- **GitHub:** [LilAmi](https://github.com/LilAmi)
-- **Discord:** [Lil Ami](https://discord.com/users/1026200545775591454)
-
-Feel free to reach out for collaborations, project inquiries, or just to say hi!
-
----
-
-> *"Best coder. DM me for projects."*
+### 🔐 Security-Minded Development
+- Secure defaults
+- Input validation
+- Safer authentication flows
+- Defensive API design
+- Awareness of common web application risks
 
 ---
 
-*“Transforming visions into digital reality.”*
+## 🏢 TuerSS
+
+I'm the **CEO & Founder of [TuerSS](https://www.tuerss.com/)**.
+
+TuerSS focuses on helping websites improve through:
+
+- **SEO** — discoverability and optimization
+- **Security** — identifying important website risks and issues
+- **Analytics** — understanding site performance and behavior
+- **AI Code Operations** — turning findings into useful technical actions
+
+My work on TuerSS spans product direction, full-stack engineering, backend infrastructure, automation, AI features, developer experience, and platform operations.
+
+---
+
+## 🧠 Core Stack
+
+**Frontend**  
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Tailwind CSS` · `HTML5` · `CSS3`
+
+**Mobile**  
+`Expo` · `React Native` · `Android` · `TypeScript`
+
+**Backend & Data**  
+`Node.js` · `Express` · `REST APIs` · `MongoDB` · `SQL` · `Prisma`
+
+**Languages & Platforms**  
+`Python` · `C#` · `Lua` · `Luau` · `Git` · `GitHub` · `Vercel`
+
+---
+
+## 🧩 Selected Work
+
+### [TuerSS](https://www.tuerss.com/)
+Website SEO, security, analytics, and AI code operations platform.
+
+### [TuerSS AI Code](https://github.com/hacker123as/TuerssAI-Code)
+AI-powered developer tooling built with Next.js, TypeScript, Prisma, MongoDB, and an editor/chat workflow.
+
+### Android / Expo Applications
+TypeScript-first mobile application development with Expo and React Native.
+
+### Roblox Systems
+Luau gameplay scripting, progression systems, abilities, UI logic, server/client architecture, and prototyping.
+
+---
+
+## 📫 Contact
+
+For development projects, partnerships, and TuerSS inquiries:
+
+**support@tuerss.com**
+
+- Website: [tuerss.com](https://www.tuerss.com/)
+- Portfolio: [hacker123as.github.io](https://hacker123as.github.io/)
+- GitHub: [@hacker123as](https://github.com/hacker123as)
+
+---
+
+> Build clean foundations. Ship useful products. Keep improving the system.
