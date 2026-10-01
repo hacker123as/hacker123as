@@ -16,6 +16,15 @@
 [![TuerSS](https://img.shields.io/badge/TUERSS-tuerss.com-826CFF?style=for-the-badge)](https://www.tuerss.com/)
 [![Business Email](https://img.shields.io/badge/SERIOUS_INQUIRIES-support%40tuerss.com-111827?style=for-the-badge)](mailto:support@tuerss.com)
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/frontend.webp" width="78" alt="Frontend development" />
+<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/backend.webp" width="78" alt="Backend development" />
+<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/mobile.webp" width="78" alt="Mobile development" />
+<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/ai.webp" width="78" alt="AI engineering" />
+<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/cybersecurity.webp" width="78" alt="Cybersecurity research" />
+<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/roblox.webp" width="78" alt="Roblox systems" />
+
 </div>
 
 ---
