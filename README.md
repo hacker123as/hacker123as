@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hacker123as/hacker123as.github.io/main/assets/readme-hero-v6.png" width="100%" alt="Lil Ami portfolio banner" />
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/hacker123as/hacker123as/refs/heads/main/F5A46E1B-038D-403B-B0DF-EE8554ED8914.gif" width="190" alt="Lil Ami profile animation" />
